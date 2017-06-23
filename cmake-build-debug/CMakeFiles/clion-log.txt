@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/georgekobelev/KPIcourses/progbase2/labs/lab8
+"/Users/georgekobelev/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/172.3095.8/CLion 2017.2 EAP.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/georgekobelev/KPIcourses/progbase2/labs/lab8
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /Users/georgekobelev/KPIcourses/progbase2/labs/lab8/cmake-build-debug

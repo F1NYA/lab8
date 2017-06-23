@@ -49,7 +49,7 @@ size_t JsonFormer::filesize(std::string filename) {
     std::ifstream::pos_type posEnd = in.tellg();
     in.seekg(0, std::ios_base::beg);
     std::ifstream::pos_type posBeg = in.tellg();
-    size_t size = (size_t)(posEnd - posEnd);
+    auto size = (size_t)(posEnd - posBeg);
 
     in.close();
 
@@ -93,16 +93,15 @@ std::string JsonFormer::formJsonStr(ReqProcessor req) {
 }
 
 void JsonFormer::formFavorites() {
-    output = readFile("favorites.json");
+    output = readFile("data/favorites.json");
 }
 
 void JsonFormer::formFavoritesByKey(ReqProcessor req) {
-    json crudeJson = json::parse(readFile("favorites.json"));
+    json crudeJson = json::parse(readFile("data/favorites.json"));
     if (req.type == REQ_FAVORITES_BY_ID) {
 
         if (req.id <= 0 || (req.id >= crudeJson.size())) {
             output = "404";
-            req.id = (int)crudeJson.max_size();
             return;
         }
         json temp = crudeJson[req.id-1];

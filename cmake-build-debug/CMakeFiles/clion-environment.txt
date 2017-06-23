@@ -1,2 +1,2 @@
 Options: 
-CMake: 3.7.2@/Applications/CLion.app/Contents/bin/cmake/bin/cmake
+CMake: 3.8.2@/Users/georgekobelev/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/172.3095.8/CLion 2017.2 EAP.app/Contents/bin/cmake/bin/cmake
