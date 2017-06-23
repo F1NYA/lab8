@@ -1,0 +1,451 @@
+[
+  {
+    "id": 1,
+    "name": "Asparagus",
+    "type": "Vegetable",
+    "companions": ["Tomato", "Aster", "Dill", "Coriander", "Parsley", "Basil", "Comfrey", "Marigold"],
+    "foes": ["Onion", "Garlic", "Potato"],
+    "description": "Asparagus is a spring vegetable and a flowering perennial plant. Asparagus is native to most of Europe, northern Africa and western Asia, and is widely cultivated as a vegetable crop."
+  },
+
+  {
+    "id": 2,
+    "name": "Anise",
+    "type": "Herb",
+    "companions": ["Coriander", "Cilantro"],
+    "foes": [],
+    "description": "Grown for its licorice flavor and attracts predetory wasps that prey on aphids. Helps protect Brassicas from pests and invigorates anything growing near it."
+  },
+
+  {
+    "id": 3,
+    "name": "Aster",
+    "type": "Flower",
+    "companions": ["Asparagus", "Celery"],
+    "foes": ["Carrot"],
+    "description": "Asters are a rich source of nectar, and because they flower at the height of monarch butterfly migration season, they are a frequent way station for these insects. The flowers are also bee magnets, so individuals with bee sensitivities should plant asters away from the garden path."
+  },
+
+  {
+    "id": 4,
+    "name": "Basil",
+    "type": "Herb",
+    "companions": ["Tomato", "Chili Pepper", "Bell Pepper", "Oregano", "Asparagus", "Petnunia", "Chamomile", "Anise", "Asparagus"],
+    "foes": ["Rue", "Sage"],
+    "description": "<p>Basil, originally from India, is best known as a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Northeast Asian cuisine of Taiwan and the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. Depending on the species and cultivar, the leaves may taste somewhat like anise, with a strong, pungent, often sweet smell.</p><p>Basil is a great addition to tomatoes as it improves both growth and flavor. Helps repel flies and mosquitos.</p>"
+  },
+
+  {
+    "id": 5,
+    "name": "Beet",
+    "type": "Vegetable",
+    "companions": ["Lettuce", "Kohlrabi", "Onion", "Brassica", "Catnip", "Garlic", "Mint"],
+    "foes": ["Green Bean"],
+    "description": "The beet is a plant best known for its purple root known as the beetroot or garden beet. They're great for adding minerals to the soil. The leaves are made up of about 25% magnesium and will make an excellent addition to your compost pile. Kohlrabi makes an excellent companion. Garlic will help imporve its flavor."
+  },
+
+  {
+    "id": 6,
+    "name": "Bell Pepper",
+    "type": "Vegetable",
+    "companions": ["Marjoram", "Tomato", "Geranium", "Petunia", "Parsley", "Basil", "Lovage", "Petunia", "Carrot", "Onion", "Okra"],
+    "foes": ["Green Bean", "Brassica", "Fennel", "Kohlrabi"],
+    "description": "Peppers help protect okra from the wind. They can be harvested at any time but they wont develop their full flavor until maturity."
+  },
+
+  {
+    "id": 7,
+    "name": "Borage",
+    "type": "Herb",
+    "companions": ["$Almost all plants", "Strawberry", "Cucurbitaceae", "Tomato", "Cabbage"],
+    "foes": [],
+    "description": "Borage is the magic bullet of companion plants. It deters tomato hornworms and cabbage worms. It will attract bees and predetory wasps. Helps replenish minerals in the soil and makes a great addition to the compost pile."
+  },
+
+  {
+    "id": 8,
+    "name": "Broccoli",
+    "type": "Vegetable",
+    "companions": ["Geranium", "Dill", "Allium", "Rosemary", "Watercress", "Borage", "Basil", "Green Beans", "Cucumber", "Hyssop", "Lettuce", "Marigold", "Mint", "Potato", "Radish", "Rosemary", "Sage", "Thyme", "Tomato", "Celelry"],
+    "foes": ["Mustard", "Chili Pepper", "Bell Pepper", "Grape", "Rue", "Strawberry"],
+    "description": "Broccoli is a plant in the cabbage family whose large flower head is used as a vegetable. Most varities will sprout many delicious side shoots after the main head is harvested. Its flavor is improved when planted near celery, potatoes, or onions. Dill and rosemary will help repel pests. It neads calcium to grow so pairing it with plants like watercress and beets is good since they require very little."
+  },
+
+  {
+    "id": 9,
+    "name": "Cabbage",
+    "type": "Vegetable",
+    "companions": ["Geranium", "Dill", "Allium", "Rosemary", "Celery", "Potato"],
+    "foes": ["Mustard", "Tomato", "Chili Pepper", "Bell Pepper", "Strawberry", "Green Bean", "Eggplant", "Rue", "Lettuce"],
+    "description": "Cabbage is a widely cultivated green leafy vegetable used in a variety of dishes for its naturally spicy flavor. Celery and chamomile both help improve growth and flavor."
+  },
+
+  {
+    "id": 10,
+    "name": "Caraway",
+    "type": "Herb",
+    "companions": ["Strawberry"],
+    "foes": ["Fennel", "Dill"],
+    "description": "Caraway, usualy used whole, has a pingent, asise-like flavor and aroma. It is used as a spice in breads, especially rye bread, as well as many desserts, liquors, casseroles, curry, and many popular European cuisine. It is great for loosening compacted soil with its deep roots and can be planted next to shallow rooted crops. Its flowers attract qiute a few beneficial insects. It can be rather challenging to get it established."
+  },
+
+  {
+    "id": 11,
+    "name": "Carrot",
+    "type": "Vegetable",
+    "companions": ["Tomato", "Allium", "Rosemary", "Wormwood", "Sage", "Green Bean", "Flax"],
+    "foes": ["Dill", "Parsnip", "Radish", "Aster"],
+    "description": "Carrots grow well with lettuce, tomatoes, and onions."
+  },
+
+  {
+    "id": 12,
+    "name": "Celery",
+    "type": "Vegetable",
+    "companions": ["Cosmos", "Daisy", "SnapDragon"],
+    "foes": ["Corn", "Aster"],
+    "description": "Celery can be a tough vegetable grow. It can take up to 5 months to harvest and does not like hot climates."
+  },
+
+  {
+    "id": 13,
+    "name": "Chamomile",
+    "type": "Herb",
+    "companions": ["Basil", "Wheat", "Onion", "Cabbage", "Cucumber"],
+    "foes": [],
+    "description": "Chamomile is one of the few seeds that need light to germinate and is considered an excellent companion to nearly anything grown in the garden. It is best when it's planted outdoors in August by spreading the seed and mixing it very lightly with soil. Improves the flavor of cabbage, cucumber, and onions. Helps accumulate calcium, potassium, and sulfur in the soil. If you leave some of the flowers unpicked it will reseed itself."
+  },
+
+  {
+    "id": 14,
+    "name": "Chervil",
+    "type": "Herb",
+    "companions": ["Radish", "Lettuce", "Broccoli"],
+    "foes": ["Radish"],
+    "description": "Chervil is a delicate annual herb related to parsley. It is used to season mild-flavoured dishes and is a constituent of the French herb mixture fines herbes."
+  },
+
+  {
+    "id": 15,
+    "name": "Chili Pepper",
+    "type": "Vegetable",
+    "companions": ["Basil", "Rosemary", "Oregano", "Parsley", "Marjoram", "Tomato", "Geranium", "Petunia", "Bell Pepper", "Cucumber", "Eggplant", "Escarole", "Okra", "Swiss Chard", "Squash"],
+    "foes": ["Legume", "Brassica", "Fennel"],
+    "description": "Chili peppers should be grown close together as it helps protect them from drying out in the sun and providing more humidity. Teas made from the peppers make excellent insect sprays."
+  },
+
+  {
+    "id": 16,
+    "name": "Chive",
+    "type": "Herb",
+    "companions": ["Apple", "Carrot", "Tomato", "Brassica", "Sunflower"],
+    "foes": ["Legume"],
+    "description": "<p>Chives are the species of edible onions. This herb is commonly used as an ingredient for fish, potatoes, soups and many other dishes. They have excellent insect-repelling properties that can be used in gardens to control pests.</p><p>They will greatly improve the flavor of carrots and tomatoes when planted nearby. When made used as a tea and sprayed on the leaves of cucumbers, pumpkins and zucchini it will help prevent powdery mildews.</p>"
+  },
+
+  {
+    "id": 17,
+    "name": "Cilantro",
+    "type": "Herb",
+    "companions": ["Spinach", "Legume", "Anise", "Caraway", "Potato", "Dill"],
+    "foes": [],
+    "description": "<p>Cilantro is a common annual herb used in popular dishes of many different cuisines. The leaves are referred to as Cilantro and the seeds are known as Corriander.</p><p>Anise will help cilantro with growth and cilantro will help anise seeds germinate more quickly. It will help repel harmful insects like aphids, spider mites, and the potato beetle. A tea made from its leaves can be used as a spray for spider mites.</p>"
+  },
+
+  {
+    "id": 18,
+    "name": "Comfrey",
+    "type": "Herb",
+    "companions": ["Spinach", "Swiss Chard", "Tomato", "Chili Pepper", "Bell Pepper", "Potato"],
+    "foes": [],
+    "description": "<p>Comfrey is a perennial herb and is very important in organic gardening. It is used as a fertilizer and also has many purpoted medicinal uses.</p><p>Companion planting comfrey with Spinach and Swiss Chard will increase their leaf growth. This beautiful flowering plant makes an excellent companion to nearly all plants but makes an even better fertilizer. Make a tea with the leaves and use it on tomato and pepper plants after they have started to flower.</p>"
+  },
+
+  {
+    "id": 19,
+    "name": "Coriander",
+    "type": "Herb",
+    "companions": ["Spinach", "Legume"],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 20,
+    "name": "Corn",
+    "type": "Vegetable",
+    "companions": ["Legume", "Sunflower", "Legume", "Peanut", "Cucurbitaceae", "Amaranth", "Geranium", "Morning Glory", "Parsley", "Potato"],
+    "foes": ["Tomato", "Celery"],
+    "description": ""
+  },
+
+  {
+    "id": 21,
+    "name": "Cucumber",
+    "type": "Vegetable",
+    "companions": ["Watercress", "Radish", "Marigold", "Sunflower", "Pea", "Beet", "Carrot", "Dill"],
+    "foes": ["Tomato", "Sage"],
+    "description": ""
+  },
+
+  {
+    "id": 22,
+    "name": "Dill",
+    "type": "Herb",
+    "companions": ["Cabbage", "Corn", "Lettuce", "Onion", "Cucumber"],
+    "foes": ["Carrot", "Tomato"],
+    "description": ""
+  },
+
+  {
+    "id": 23,
+    "name": "Eggplant",
+    "type": "Vegetable",
+    "companions": ["Green Bean", "Chili Pepper", "Bell Pepper", "Marigold", "Tarragon", "Mint"],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 24,
+    "name": "Fennel",
+    "type": "Herb",
+    "companions": ["Dill"],
+    "foes": ["$Almost all plants"],
+    "description": "Fennel is allelopathic to most garden plants, inhibiting growth, causing to bolt, or actually killing many plants"
+  },
+
+  {
+    "id": 25,
+    "name": "Garlic",
+    "type": "Herb",
+    "companions": ["Apple", "Pear", "Rose", "Cucumber", "Lettuce", "Celery"],
+    "foes": ["Legume", "Cabbage"],
+    "description": ""
+  },
+
+  {
+    "id": 26,
+    "name": "Green Bean",
+    "type": "Vegetable",
+    "companions": ["Corn", "Spinach", "Lettuce", "Rosemary", "Summer Savory", "Dill", "Carrot", "Brassica", "Beet", "Radish", "Strawberry", "Cucumber", "Eggplant"],
+    "foes": ["Tomato", "Chili Pepper", "Bell Pepper", "Allium", "Brassica"],
+    "description": ""
+  },
+
+  {
+    "id": 27,
+    "name": "Hemp",
+    "type": "Herb",
+    "companions": ["Brassica"],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 28,
+    "name": "Hyssop",
+    "type": "Herb",
+    "companions": ["Cabbage", "Grape"],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 29,
+    "name": "Leek",
+    "type": "Vegetable",
+    "companions": ["Celery", "Apple", "Carrot"],
+    "foes": ["Legume", "Swiss Chard"],
+    "description": ""
+  },
+
+  {
+    "id": 30,
+    "name": "Lovage",
+    "type": "Herb",
+    "companions": ["$Almost all plants", "Green Bean"],
+    "foes": [],
+    "description": "Is thought to improve the health of almost all plants, like borage and geraniums, is considered a &quot;magic bullet&quot; of companion planting"
+  },
+
+  {
+    "id": 31,
+    "name": "Lettuce",
+    "type": "Vegetable",
+    "companions": ["Radish", "Kohlrabi", "Green Bean", "Carrot"],
+    "foes": ["Celery", "Cabbage", "Watercress", "Parsley"],
+    "description": ""
+  },
+
+  {
+    "id": 32,
+    "name": "Marigold",
+    "type": "Flower",
+    "companions": ["$Nearly all plants"],
+    "foes": [],
+    "description": "Marigolds are credited with repelling a large variety of pests. Plant freely throughout the garden."
+  },
+
+  {
+    "id": 33,
+    "name": "Mustard",
+    "type": "Vegetable",
+    "companions": ["Cabbage", "Cauliflower", "Radish", "Brussel Sprout", "Turnip"],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 34,
+    "name": "Onion",
+    "type": "Vegetable",
+    "companions": ["Tomato", "Brassica", "Carrot"],
+    "foes": ["Legume", "Parsley"],
+    "description": ""
+  },
+
+  {
+    "id": 35,
+    "name": "Oregano",
+    "type": "Herb",
+    "companions": ["Tomato", "Chili Pepper", "Bell Pepper", "Basil"],
+    "foes": [],
+    "description": "Provides ground cover and much-needed humidity for pepper plants if allowed to spread among them"
+  },
+
+  {
+    "id": 36,
+    "name": "Peppermint",
+    "type": "Herb",
+    "companions": ["Brassica"],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 37,
+    "name": "Potato",
+    "type": "Vegetable",
+    "companions": ["Horseradish"],
+    "foes": ["Carrot", "Cucumber", "Onion", "Raspberry", "Squash", "Sunflower", "Tomato"],
+    "description": ""
+  },
+
+  {
+    "id": 38,
+    "name": "Parsnip",
+    "type": "Vegetable",
+    "companions": ["Fruit Trees"],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 39,
+    "name": "Pumpkin",
+    "type": "Vegetable",
+    "companions": ["Corn", "Green Bean", "Buckwheat", "Catnip", "Tansy", "Radish"],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 40,
+    "name": "Rosemary",
+    "type": "Herb",
+    "companions": ["Sage", "Cabbage", "Green Bean", "Carrot"],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 41,
+    "name": "Sage",
+    "type": "Herb",
+    "companions": ["Rosemary", "Cabbage", "Bean", "Carrot"],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 42,
+    "name": "Southernwood",
+    "type": "Herb",
+    "companions": ["Fruit Trees"],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 43,
+    "name": "Spearmint",
+    "type": "Herb",
+    "companions": [],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 44,
+    "name": "Spinach",
+    "type": "Vegetable",
+    "companions": ["Legume"],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 45,
+    "name": "Summer Savory",
+    "type": "Herb",
+    "companions": ["Green Bean", "Onion"],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 46,
+    "name": "Tansy",
+    "type": "Herb",
+    "companions": ["Green Bean", "Cucurbitaceae"],
+    "foes": [],
+    "description": "Is reputed to generally repel insects (except for nectar-eating types). This herb should not be consumed, as it is quite toxic."
+  },
+
+  {
+    "id": 47,
+    "name": "Tarragon",
+    "type": "Herb",
+    "companions": ["$Almost all plants", "Eggplant"],
+    "foes": [],
+    "description": "Its scent is disliked by most pests, and this plant is also thought to have Nurse Plant properties, enhancing the growth and flavor of crops grown with it."
+  },
+
+  {
+    "id": 48,
+    "name": "Thyme",
+    "type": "Herb",
+    "companions": ["Cabbage", "Broccoli"],
+    "foes": [],
+    "description": ""
+  },
+
+  {
+    "id": 49,
+    "name": "Tomato",
+    "type": "Vegetable",
+    "companions": ["Rose", "Bell Pepper", "Chili Pepper", "Asparagus", "Basil", "Oregano", "Parsley", "Carrot", "Marigold", "Allium", "Celery", "Geranium", "Petunia", "Watercress", "Borage"],
+    "foes": ["Black Walnut", "Corn", "Fennel", "Pea", "Dill", "Potato", "Beet", "Brassica", "Rosemary"],
+    "description": ""
+  },
+
+  {
+    "id": 50,
+    "name": "Watercress",
+    "type": "Vegetable",
+    "companions": ["Onion", "Chive", "Peppermint", "Spearmint", "Wintergreen"],
+    "foes": [],
+    "description": "Grow Watercress in a semi shaded area. Will grow directly in gently running water. "
+  }
+]
