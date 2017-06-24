@@ -103,5 +103,5 @@ Temporary Items
 
 
 .idea/
-/valgrind.sh
+valgrind.sh
 docs/
