@@ -101,8 +101,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-.gitignore
-.idea/vcs.xml
+
+.idea/
 /valgrind.sh
-data/
 docs/

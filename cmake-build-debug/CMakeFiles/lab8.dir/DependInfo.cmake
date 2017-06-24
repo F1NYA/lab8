@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/georgekobelev/KPIcourses/progbase2/labs/lab8/src/JsonFormer.cpp" "/Users/georgekobelev/KPIcourses/progbase2/labs/lab8/cmake-build-debug/CMakeFiles/lab8.dir/src/JsonFormer.cpp.o"
   "/Users/georgekobelev/KPIcourses/progbase2/labs/lab8/src/ReqProcessor.cpp" "/Users/georgekobelev/KPIcourses/progbase2/labs/lab8/cmake-build-debug/CMakeFiles/lab8.dir/src/ReqProcessor.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
