@@ -4,10 +4,14 @@ os:
   - linux
 compiler:
   - gcc
+addons:
+  apt:
+    packages:
+    - cmake
 
 before_install:
+  - sudo apt-get install libevent-dev
   - sudo apt-get install libssl-dev
-  - sh scripts/install-libprogbase.sh
 
 script:
   - cmake .
