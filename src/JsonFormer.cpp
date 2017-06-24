@@ -48,8 +48,7 @@ size_t JsonFormer::filesize(std::string filename) {
     std::ifstream in(filename.c_str(), std::ifstream::ate | std::ifstream::binary);
     std::ifstream::pos_type posEnd = in.tellg();
     in.seekg(0, std::ios_base::beg);
-    std::ifstream::pos_type posBeg = in.tellg();
-    auto size = (size_t)(posEnd - posBeg);
+    auto size = (size_t)(posEnd - in.tellg());
 
     in.close();
 
